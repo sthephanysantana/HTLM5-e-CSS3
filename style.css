@@ -1,0 +1,64 @@
+.photo {
+  border: 3px dotted #647C54;
+  border-radius: 22%;
+}
+body {
+  width: 2000px;
+  margin: auto;
+  background: #D3D9CE
+}
+/*Fundo do site*/
+#title, .subtitle, .post_title {
+  color: #385623;
+}
+#title {
+  font-family: Sarala;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+.subtitle {
+  font-family: Sarala;
+  font-size: 30px;
+  text-decoration: underline;
+}
+a {
+  text-decoration: line-through;
+  color: #7A8E6C;
+  font-size: 25px;
+}
+  /*Links*/
+.post_title{
+  font-size: 6px;
+  font-style: italic;
+  margin: 0;
+  margin-bottom: 15px;
+  font-size: 22px;
+}
+.post {
+  background: #E9ECE7;
+  padding: 15px;
+  border: 3px dotted #647C54;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  margin-right: 300px;
+}
+.post_content{
+  margin: 0;
+  margin-bottom: 15px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  color: #385623;
+}
+.post_image{
+  margin-bottom: 15px;
+  border: 1px solid #647C54;
+  border-radius: 15px;
+  
+}
+.contacts_list {
+  list-style-type: none;
+  padding-left: 8px;
+}
+.contacts_list li a {
+  color:#647C54
+}
